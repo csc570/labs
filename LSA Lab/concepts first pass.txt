@@ -1,0 +1,326 @@
+Concepts with "starter" stopwords
+
+
+Concept 0:
+edu
+com
+would
+one
+re
+ca
+lines
+use
+writes
+subject
+ 
+Concept 1:
+copy
+copy protection
+protection
+program
+want
+sehari
+much
+cs
+ketil
+etc
+ 
+Concept 2:
+com
+would
+catbyte
+dtmedin
+need
+lines
+ca
+b30
+ingr
+b30 ingr
+ 
+Concept 3:
+used
+would
+writes
+want
+use
+etc
+get
+subject
+subject re
+problem
+ 
+Concept 4:
+lines
+host
+ca
+led
+organization
+organization university
+board
+concrete
+posting
+reply
+ 
+Concept 5:
+wire
+wiring
+organization
+ground
+use
+neutral
+article
+ve
+one
+outlets
+ 
+Concept 6:
+00 38 00
+used
+ca
+lines
+would
+little
+writes
+hp
+research
+current
+ 
+Concept 7:
+could
+00 18
+use
+subject
+writes
+much
+work
+oversampling
+subject re
+like
+ 
+Concept 8:
+edu
+00 1993 lines
+host
+university
+phone
+know
+00 44 18
+power
+com
+ve
+ 
+Concept 9:
+need
+organization
+re
+00 44
+also
+get
+reply
+00 1993 lines
+signal
+distribution
+ 
+Concept 10:
+edu
+00 18
+00 1993 fujitsu
+nntp
+nntp posting
+nntp posting host
+posting host
+one
+work
+know
+ 
+Concept 11:
+anyone
+edu
+one
+00 00 gmt
+voltage
+get
+00 1993 lines
+ve
+software
+well
+ 
+Concept 12:
+posting
+would
+subject re
+00 1993 fujitsu
+know
+nntp
+nntp posting
+nntp posting host
+posting host
+00 44 18
+ 
+Concept 13:
+com
+re
+make
+think
+computer
+want
+15
+another
+buy
+know
+ 
+Concept 14:
+00 38 00
+00 1993
+use
+re
+organization
+software
+host
+subject re
+nntp
+nntp posting
+ 
+Concept 15:
+would
+posting
+could
+edu
+current
+anyone
+university
+00 1993
+re
+work
+ 
+Concept 16:
+would
+00 44
+phone
+00 38 00
+power
+university
+probably
+radio
+got
+organization university
+ 
+Concept 17:
+one
+ca
+university
+00 18
+posting
+want
+like
+software
+electronics
+use
+ 
+Concept 18:
+ca
+use
+00 18
+00 18 edt
+copy
+00 38
+power
+subject re
+sure
+00 00 gmt
+ 
+Concept 19:
+writes
+00 1993 lines
+organization
+university
+subject re
+00 18 edt
+nntp
+nntp posting
+nntp posting host
+posting host
+ 
+Concept 20:
+would
+re
+00 18
+00 1993 fujitsu
+ca
+host
+university
+good
+one
+know
+ 
+Concept 21:
+article
+00 1993 fujitsu
+00 1993
+power
+subject re
+work
+phone
+00 38
+think
+00 44 18
+ 
+Concept 22:
+com
+organization
+00 18
+posting
+would
+lines
+also
+writes
+00 1993 fujitsu
+used
+ 
+Concept 23:
+edu
+00 1993
+lines
+use
+article
+like
+one
+know
+00 18
+organization
+ 
+Concept 24:
+host
+one
+subject re
+need
+00 44
+used
+two
+posting
+could
+battery
+ 
+Concept 25:
+00 1993 lines
+00 18 edt
+00 38
+ve
+university
+radio
+re
+also
+copy
+00 44
+ 
+Concept 26:
+00 18 edt
+subject re
+com
+00 1993
+one
+organization
+re
+00 00 gmt
+like
+phone

@@ -1,0 +1,323 @@
+Concept 0:
+use
+writes
+copy
+article
+organization
+university
+know
+battery
+host
+posting
+ 
+Concept 1:
+b30
+ingr
+catbyte
+dtmedin
+b30 ingr
+catbyte b30
+catbyte b30 ingr
+dtmedin catbyte
+dtmedin catbyte b30
+dave medin
+ 
+Concept 2:
+copy
+copy protection
+00 1993
+protection
+00 1993 made
+ketil
+reed
+tih
+schaefer
+make
+ 
+Concept 3:
+baden
+used
+use
+organization
+bison mb
+port
+00 1993 10
+00 1993 fujitsu
+get
+good
+ 
+Concept 4:
+wiring
+wire
+need
+ground
+audio
+relays
+neutral
+outlets
+problem
+gfci
+ 
+Concept 5:
+ground
+also
+two
+baden
+new
+00 1993
+concrete
+good
+lead
+lead acid
+ 
+Concept 6:
+wiring
+wire
+ground
+neutral
+article
+since
+outlet
+two
+gfci
+power
+ 
+Concept 7:
+ai
+00 1993
+00 18 edt
+00 36
+ai uga
+00 18
+phone
+radio
+software
+good
+ 
+Concept 8:
+host
+organization
+phone
+problem
+hp
+need
+used
+ac
+number
+fpu
+ 
+Concept 9:
+00 18
+posting
+anyone
+know
+university
+help
+number
+organization
+amp
+sehari
+ 
+Concept 10:
+copy
+article
+organization
+even
+use
+battery
+may
+water
+however
+voltage
+ 
+Concept 11:
+use
+posting
+lot
+ve
+writes
+able
+people
+wondering
+never
+digital
+ 
+Concept 12:
+00 00 36
+ve
+like
+host
+use
+wire
+organization university
+cable
+wiring
+phone
+ 
+Concept 13:
+university
+00 1993 made
+article
+00 18
+00 18 edt
+get
+00 1993
+phone
+need
+output
+ 
+Concept 14:
+get
+copy
+help
+00 36
+organization
+current
+voltage
+could
+got
+michael
+ 
+Concept 15:
+copy
+anyone
+good
+posting
+ground
+want
+00 1993 fujitsu
+know
+article
+wiring
+ 
+Concept 16:
+work
+posting
+want
+use
+get
+circuit
+could
+00 18 edt
+around
+host
+ 
+Concept 17:
+anyone
+00 00 36
+two
+help
+posting
+like
+problem
+00 00 48
+00 18
+know
+ 
+Concept 18:
+article
+wire
+copy
+writes
+things
+00 1993 fujitsu
+used
+something
+battery
+signal
+ 
+Concept 19:
+host
+00 18
+nntp
+nntp posting
+nntp posting host
+posting host
+help
+uk
+copy
+ground
+ 
+Concept 20:
+use
+ac
+help
+good
+10
+chip
+00 1993
+time
+power
+copy
+ 
+Concept 21:
+00 18 edt
+know
+00 1993 fujitsu
+00 18
+organization
+writes
+au
+distribution
+battery
+batteries
+ 
+Concept 22:
+posting
+much
+00 1993 fujitsu
+00 00 48
+chip
+00 1993 10
+need
+ve
+help
+00 1993 made
+ 
+Concept 23:
+00 1993
+posting
+think
+au
+mail
+good
+time
+know
+radio
+00 1993 10
+ 
+Concept 24:
+writes
+00 1993 motorola
+00 00 36
+00 18
+host
+system
+00 18 edt
+well
+10
+high
+ 
+Concept 25:
+00 18 edt
+00 36
+amp
+time
+posting
+00 00 36
+software
+also
+00 1993 motorola
+make
+ 
+Concept 26:
+know
+use
+writes
+00 00 36
+need
+00 1993
+help
+two
+nntp
+nntp posting
